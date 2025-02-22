@@ -20,7 +20,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Learn Academy",
-  description: "Learn Academy Description",
+  description: "Learn Academy: Empowering learners with knowledge, skills, and growth",
 };
 
 export default function RootLayout({
